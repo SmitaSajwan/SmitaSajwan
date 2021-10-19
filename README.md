@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SmitaSajwan
+- 👀 I’m interested in understanding the daily use of classification problems 
+- 🌱 I’m currently learning to develop classification model
+- 💞️ I’m looking to collaborate on testing different classification models
+- 📫 You can reach me on sajwan.hina@ymail.com
